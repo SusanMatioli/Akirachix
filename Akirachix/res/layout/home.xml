@@ -46,6 +46,13 @@
         android:layout_height="wrap_content"
         android:text="result"
         android:textSize="30dp" />
+     <EditText
+        android:id="@+id/etresults"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="results" >
+    
     
     <Button
         android:id="@+id/butadd"
